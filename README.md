@@ -6,6 +6,6 @@ You find API code for this Todo App at  https://github.com/Sreejith849/Todo_API.
 
 ## To Run the app
 
-Run your MongodB using command prompt
-Open API code and run node app.js on terminal
-Open React code and run npm start on terminal
+Run your MongodB using command prompt.
+Open API code and run node app.js on terminal.
+Open React code and run npm start on terminal.
