@@ -1,0 +1,17 @@
+body{
+    background-image: url(./feather.jpg);
+    background-size: 1450px;
+    font-family: sans-serif;
+}
+
+.root{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(9, 98, 199);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    padding : 10px;
+}
